@@ -1,8 +1,12 @@
 <RCC>
     <qresource prefix="/">
         <file>background.jpeg</file>
-        <file>StartButton.jpg</file>
         <file>button1.png</file>
         <file>tower.png</file>
+        <file>monster1.png</file>
+        <file>StartButton.jpg</file>
+        <file>StartButton.png</file>
+        <file>map.jpg</file>
+        <file>settower.png</file>
     </qresource>
 </RCC>

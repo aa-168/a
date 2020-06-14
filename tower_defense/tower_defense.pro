@@ -28,13 +28,17 @@ SOURCES += \
         mainwindow.cpp \
     mywindow.cpp \
     sbutton.cpp \
-    tower.cpp
+    tower.cpp \
+    myobject.cpp \
+    myobject2.cpp
 
 HEADERS += \
         mainwindow.h \
     mywindow.h \
     sbutton.h \
-    tower.h
+    tower.h \
+    myobject.h \
+    myobject2.h
 
 FORMS += \
         mainwindow.ui

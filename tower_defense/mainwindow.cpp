@@ -14,11 +14,11 @@ MainWindow::MainWindow(QWidget *parent) :
 {
     this->setFixedSize(800,600);
     ui->setupUi(this);
-    SButton * btn = new SButton(":/StartButton.jpg");
+    SButton * btn = new SButton(":/StartButton.png");
     btn->setParent(this);
- //   QPushButton *btn = new QPushButton(this);
+  //   QPushButton *btn = new QPushButton(this);
   //  btn->setFixedSize(100,50);
-    btn->move(100,300);
+    btn->move(317,500);
 //    connect(btn,&SButton::clicked,this,&QMainWindow::close);
 
     MyWindow * scene = new MyWindow;
